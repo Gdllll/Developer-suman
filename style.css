@@ -1,0 +1,92 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background:#2A2C29;
+}
+.to{
+  display:flex;
+  margin:4vh 4vh;
+  justify-content:space-between;
+  align-items:center;
+ 
+}
+.to h1{
+  color:white;
+  font-size:20px;
+  
+  font-family: "Open Sans", sans-serif;
+}
+.to  a{
+  color:white;
+  text-decoration:none;
+
+  font-family: "Open Sans", sans-serif;
+}
+#suman{
+  color:darksalmon;
+}
+.main{
+ margin:5vh 5vh; 
+ 
+}
+.main h1 {
+  color:white;
+  font-weight:200;
+   font-family: "Playpen Sans", cursive;
+}
+.main h4{
+  color:white;
+ font-weight:100;
+}
+.main p{
+  color:white;
+   font-family: "Playpen Sans", cursive;
+}
+.main a{
+  color:white;
+  text-decoration:none;
+   font-family: "Roboto", sans-serif;
+  font-weight: 300;
+   padding:20px;
+   font-weight:bold;
+background:salmon;
+border-radius:10px;
+}
+
+
+ 
+img{
+  margin-left:150px;
+  margin-right:150px;
+  margin-bottom:150px;
+  border-radius:50%;
+  box-shadow:4px 6px grey;
+}
+.scode h1{
+    color:white;
+  font-size:40px;
+  margin:4vh 4vh;
+  font-family: "Open Sans", sans-serif;
+}
+hr{
+  margin:4vh 4vh;
+}
+.scode a{
+  color:white;
+  font-size:25px;
+  margin:4vh 4vh;
+  font-family: "Open Sans", sans-serif;
+  text-decoration: none;
+  font-weight:bold;
+}
+#code{
+  color:darksalmon;
+}
+.scode{
+  margin:4vh 4vh;
+}
+.scode a:hover{
+  color:crimson;
+  transition:0.2s;
+}

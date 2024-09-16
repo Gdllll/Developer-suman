@@ -1,0 +1,41 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  background:#2A2C29;
+}
+.main{
+  margin:4vh 4vh;
+}
+.main h1{
+  color:white;
+  font-size:40px;
+}
+img{
+  
+ 
+  border-radius:5%;
+ 
+}
+#animated{
+  color:crimson;
+}
+a{
+  text-align:left;
+color:white;
+  text-decoration:none;
+   font-family: "Roboto", sans-serif;
+  font-weight: 300;
+   padding:20px;
+   font-weight:bold;
+background:salmon;
+border-radius:10px; 
+margin:2vh 2vh;
+ 
+}
+.img-bar{
+  
+  align-items:center;
+  justify-content:space-between;
+  margin:2vh 2vh;
+}
